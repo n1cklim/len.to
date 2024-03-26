@@ -2,7 +2,7 @@
 # Use of this source code is governed by a GPL style
 # license that can be found in the LICENSE file.
 title = "n1cklim's photography repo"
-baseURL = https://photographyrepo.netlify.app/"
+baseURL = "https://photographyrepo.netlify.app/"
 languageCode = "en-us"
 paginate = 20
 paginatePath = ""
